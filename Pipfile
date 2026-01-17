@@ -17,6 +17,13 @@ python-dotenv = "==0.19.2"
 safety = "*"
 requests = "*"
 jsonschema = "*"
+matplotlib = "*"
+scikit-learn = "*"
+numpy = "*"
+ipykernel = "*"
+tabulate = "*"
+pandas = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.12"
